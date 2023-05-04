@@ -1,10 +1,10 @@
 import './App.css';
 import React from 'react';
 import {Route, Switch} from "react-router-dom"
-import Home from "./components/Home"
-import ArticleList from "./components/ArticleList"
-import NavBar from "./components/NavBar"
-import Comments from "./components/Comments"
+import Home from "./Home"
+import ArticleList from "./ArticleList"
+import NavBar from "./Navbar"
+import Comments from "./Comments"
 
 function App() {
   return (

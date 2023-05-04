@@ -56,7 +56,7 @@ function ArticleList() {
   )
 
   return (
-    <div>
+    <div className="art" >
       <NewArticleForm  addArticles= {addArticles}/>
       <div>
         <div className="arts" >

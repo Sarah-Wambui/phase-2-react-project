@@ -27,10 +27,10 @@ function Comments() {
     )
   })
   return (
-    <div>
+    <div className="comments">
     <form onSubmit={handleSubmit}>
-      <textarea type="text" placeholder='leave a comment here'value={comments} onChange={handleChange} />
-      <button type="submit">submit</button>
+      <textarea type="text" placeholder='leave a comment here...'value={comments} onChange={handleChange} /> <br></br>
+      <button type="submit" className="butn" >submit</button>
     </form>
     {errors.length>0?errors.map((error,index)=>(
       <p key={index}>{error}</p>

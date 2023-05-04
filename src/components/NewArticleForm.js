@@ -36,14 +36,14 @@ function NewArticleForm({addArticles}) {
 
   return (
 
-    <form onSubmit={handleSubmit} >
+    <form onSubmit={handleSubmit} className="article-form" >
         <input onChange={handleOnChange} type= "text" name = "name" value ={formData.name} placeholder = "name"/>
         <input onChange={handleOnChange} type = "text" name = "author" value = {formData.author} placeholder = "author"/>
         <input onChange={handleOnChange} type = "text" name = "title"value = {formData.title} placeholder = "title"/>
         <input onChange={handleOnChange} type = "text" name = "description" value = {formData.description} placeholder = "description"/>
         <input onChange={handleOnChange} type = "text" name = "image" value = {formData.image} placeholder = "image"/>
         <input onChange={handleOnChange} type = "text" name = "content"value = {formData.content} placeholder = "content"/>
-        <button type= "submit" > add Article </button>.
+        <button type= "submit" > add Article </button>
     </form>
   )
 }
