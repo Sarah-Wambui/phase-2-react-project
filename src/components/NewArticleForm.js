@@ -43,8 +43,7 @@ function NewArticleForm({addArticles}) {
         <input onChange={handleOnChange} type = "text" name = "description" value = {formData.description} placeholder = "description"/>
         <input onChange={handleOnChange} type = "text" name = "image" value = {formData.image} placeholder = "image"/>
         <input onChange={handleOnChange} type = "text" name = "content"value = {formData.content} placeholder = "content"/>
-        <button type= "submit" > add Article </button>
-
+        <button type= "submit" > add Article </button>.
     </form>
   )
 }
