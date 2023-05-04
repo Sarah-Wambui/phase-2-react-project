@@ -60,13 +60,13 @@ You may also see any lint errors in the console.
 
 ### Some Screenshots
   - Homepage section
-  ![Home](src/image/article image1.jpeg)
+  ![Home](src/image/articleimage1.jpeg)
   
   - Article section
   ![Articles](src/image/articleimage2.jpeg)
 
   - Comment section
-  ![Comment](src/image/articleimage2.jpeg)
+  ![Comment](src/image/articleimage3.jpeg)
 
 ### Known Bugs
 ***
