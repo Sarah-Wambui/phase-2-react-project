@@ -10,7 +10,7 @@
 ***
 ### Description
 ***
-Moringa Phase 2 group project on Health Articles Website that allows users to:
+Moringa Phase 2 group project on Health Articles App that allows users to:
 
     - view articles "Get/articles"
     - Create their own article "Post/articles"
@@ -53,10 +53,10 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000/articles]to view it in your browser.
+Open [http://localhost:3000/articles] to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see no errors in the console.
 
 ### Some Screenshots
   - Homepage section
@@ -70,7 +70,7 @@ You may also see any lint errors in the console.
 
 ### Known Bugs
 ***
-There are no known bugs of this project at the moment 
+There are no known bugs of this project at the moment  8-)
 
 ### License
 ***
