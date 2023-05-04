@@ -70,7 +70,7 @@ You may also see no errors in the console.
 
 ### Known Bugs
 ***
-There are no known bugs of this project at the moment  8-)
+There are no known bugs of this project at the moment  ![cool](src/image/cool.png)
 
 ### License
 ***
