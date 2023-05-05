@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//phase-2-react-project.git/static/css/main.f29d8cf2.css",
+    "main.js": "//phase-2-react-project.git/static/js/main.7acdffd7.js",
+    "static/js/787.3bf26736.chunk.js": "//phase-2-react-project.git/static/js/787.3bf26736.chunk.js",
+    "static/media/pina.png": "//phase-2-react-project.git/static/media/pina.b04e4784838bf8654afe.png",
+    "index.html": "//phase-2-react-project.git/index.html",
+    "main.f29d8cf2.css.map": "//phase-2-react-project.git/static/css/main.f29d8cf2.css.map",
+    "main.7acdffd7.js.map": "//phase-2-react-project.git/static/js/main.7acdffd7.js.map",
+    "787.3bf26736.chunk.js.map": "//phase-2-react-project.git/static/js/787.3bf26736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29d8cf2.css",
+    "static/js/main.7acdffd7.js"
+  ]
+}
